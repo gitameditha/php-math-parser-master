@@ -29,7 +29,14 @@ echo $result; //302
   - Add unit tests.
   - Add additional strategy for translation from infix to reverse polish notation
 
+
+
+## Unit Test in
+\tests\Math\ParserTest.php
+
 ## License
 
 MIT, see LICENSE.
 # php-math-parser-master # php-math-parser-master
+
+
